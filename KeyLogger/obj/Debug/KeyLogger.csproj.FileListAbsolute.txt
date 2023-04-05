@@ -1,0 +1,8 @@
+C:\Users\dyane\Documents\My Projects\C#\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.config
+C:\Users\dyane\Documents\My Projects\C#\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
+C:\Users\dyane\Documents\My Projects\C#\KeyLogger\KeyLogger\bin\Debug\KeyLogger.pdb
+C:\Users\dyane\Documents\My Projects\C#\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.AssemblyReference.cache
+C:\Users\dyane\Documents\My Projects\C#\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyane\Documents\My Projects\C#\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\dyane\Documents\My Projects\C#\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe
+C:\Users\dyane\Documents\My Projects\C#\KeyLogger\KeyLogger\obj\Debug\KeyLogger.pdb
